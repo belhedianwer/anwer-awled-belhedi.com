@@ -1,6 +1,6 @@
 # Anwer Awled Belhedi
 
-Accomplished Full Stack Application Developer with 12 years of experience in various agencies and over 15 years of coding experience.
+Accomplished Full Stack Application Developer with 13 years of experience in various agencies and over 15 years of coding experience.
 
 I have a strong passion for discovering new technologies and creating innovative solutions. I thrive on learning new skills quickly and with enthusiasm.
 
@@ -39,11 +39,13 @@ Java, C#
 - Express (Node.js)
 - Nest.js (Node.js)
 - Strapi (Node.js)
+- Flutter (Mobile)
+- NativeScript (Mobile)
 - Elasticsearch
 - Algolia
 - MongoDB
 - Firebase
-- Socket.IO, Pusher
+- Socket.IO, Pusher, Firebase
 - Prestashop
 - Wordpress
 - Drupal
@@ -53,10 +55,13 @@ Java, C#
 - Easy admin (Symfony)
 - SONATA (Symfony)
 - Docker
-- NativeScript (Mobile)
-- Flutter (Mobile)
 - Electron
+- Playwright (Scraping ...)
 - Puppeteer (Scraping ...)
+- ChatGPT API
+- DeepL API
+- Shell Scripts
+- (Linux, Vhosts, SSL, ...)
 - ChatBot
 - Flash Action Script
 - HTML
